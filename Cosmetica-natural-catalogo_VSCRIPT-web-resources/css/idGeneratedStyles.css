@@ -4,6 +4,12 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	border-width:0;
 	text-rendering:optimizeSpeed;
 }
+#outer-wrapper {
+	width: 595.275590551px;
+	height: 841.889763778px;
+	margin: 0 auto;
+	position: relative;
+  }
 div.Marco-gr-fico-b-sico {
 	border-color:#000000;
 	border-width:1px;
